@@ -147,6 +147,11 @@ main {
 margin: 20px;
 }
 
+strong {
+  color: #f3ff06;
+  font-size: large;
+}
+
 .festival {
   color: #f3ff06;
   -webkit-text-stroke: 0.5px #707001;
@@ -176,6 +181,10 @@ p{
 
 .festival {
   margin-top: 40px;
+}
+
+.portrait {
+  filter: drop-shadow(10px 10px 6px #ff0fa7);
 }
 
 .tag {
